@@ -15,6 +15,12 @@ This is a single-player tic-tac-toe console game which allows the user to play a
 
 This is a multiplayer tic-tac-toe console game which allows two clients to player against eachother over a TCP connection with a server in the middle. The program tells a client when it is their turn and lets them enter their position, it also updates the positions for each client so the clients know the move their opponent made. For game security, the server will only accept moves from clients if it is their turn. The server also validates who wins and loses. 
 
+### **Languages and Tools**
+
+- C Programming Language
+- Server-Client Networking (WINSOCK)
+- Microsoft Visual Studio
+
 ## [C# - Inventory Manager](https://github.com/tokyolatter00/Inventory-Manager)
 
 This is an inventory manager application created in C#. It is an example of how an inventory manager would be created on a local database. The user is able to add and remove inventory items to the inventory list, and is also able to set the amount of that inventory item which is in stock. This program also supports error handling, and informs the user when they are doing something wrong, more can be found about this on the repository for this application. 
