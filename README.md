@@ -27,7 +27,16 @@ This is a simple TCP chatroom application with a server and client. A server can
 - Server-Client Networking
 - JSON Encoding and Decoding
 
+## [C# - Inventory Manager](https://github.com/tokyolatter00/Inventory-Manager)
 
+### **Overview***
 
+This is an inventory manager application created in C#. It is an example of how an inventory manager would be created on a local database. The user is able to add and remove inventory items to the inventory list, and is also able to set the amount of that inventory item which is in stock. 
 
+### **Languages and Tools***
+
+- C# Programming Language / .NET
+- SQLite Database
+- Windows Forms
+- Microsoft Visual Studio
 
