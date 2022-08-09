@@ -9,11 +9,12 @@ This project is a calculator application which uses parsing and evaluation on an
 
 ### **Overview**
 
-This is an overview
+This calculator can accept a range of complicated mathematical expressions represented in a string. This calculator handles things like error handling, parenthesis, floating point numbers, negative numbers, etc. 
   
 ### **Languages and Tools**
 
-This is Languages and Tools
+- C Programming Language
+- Microsoft Visual Studio
 
 
 
