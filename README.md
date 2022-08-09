@@ -1,7 +1,7 @@
 
 # Programming Project Portfolio
 
-This is a portfolio to showcase projects and programs I have created. 
+This is a portfolio to showcase projects and programs I have created. I tried to include a different range of projects, and only tried to include projects I thought were interesting or fun. 
 
 ## [C - Advanced Calculator](https://github.com/tokyolatter00/Calculator)
 
