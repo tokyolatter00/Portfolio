@@ -9,15 +9,11 @@ This project is a calculator application which uses parsing and evaluation on an
 
 ### **Overview**
 
-<sub>
 This is an overview
-</sub>
   
 ### **Languages and Tools**
 
-<sub>
 This is Languages and Tools
-</sub>
 
 
 
