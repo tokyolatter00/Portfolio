@@ -15,7 +15,7 @@ This calculator can accept a range of complicated mathematical expressions repre
 - C Programming Language
 - Microsoft Visual Studio
 
-## [Python - TCP Chatroom] (https://github.com/tokyolatter00/Python-Chat-Room)
+## [Python - TCP Chatroom](https://github.com/tokyolatter00/Python-Chat-Room)
 
 ### **Overview**
 
