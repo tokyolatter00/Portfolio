@@ -9,10 +9,17 @@ This is a portfolio to showcase projects and programs I have created.
 
 This calculator can accept a range of complicated mathematical expressions represented in a string. This calculator handles things like error handling, parenthesis, floating point numbers, negative numbers, etc. Input strings are analysed, parsed and evaluated to calculate the end result. 
   
-### **Languages and Tools**
+## [C - Tic Tac Toe](https://github.com/tokyolatter00/Tic-Tac-Toe)
 
-- C Programming Language
-- Microsoft Visual Studio
+### **Overview**
+
+This is a single-player tic-tac-toe console game which allows the user to play against their computer. The program is able to detect when a player winners and end the game when that happens
+
+# [C - Net Tic Tac Toe](https://github.com/tokyolatter00/Net-Tic-Tac-Toe)
+
+### **Overview**
+
+This is a multiplayer tic-tac-toe console game which allows two clients to player against eachother over a TCP connection with a server in the middle. The program tells a client when it is their turn and lets them enter their position, it also updates the positions for each client so the clients know the move their opponent made. For game security, the server will only accept moves from clients if it is their turn. The server also validates who wins and loses. 
 
 ## [C# - Inventory Manager](https://github.com/tokyolatter00/Inventory-Manager)
 
