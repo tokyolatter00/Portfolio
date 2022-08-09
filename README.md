@@ -3,9 +3,9 @@
 
 This is a portfolio to showcase projects and programs I have created. 
 
-### Markdown
+### Advanced Calculator
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project is a calculator application which uses parsing and evaluation on an input string to calculate an output
 
 ```markdown
 Syntax highlighted code block
