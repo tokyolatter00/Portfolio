@@ -3,17 +3,17 @@
 
 This is a portfolio to showcase projects and programs I have created. 
 
-### Advanced Calculator
+## [Advanced Calculator](https://github.com/tokyolatter00/Calculator)
 
 This project is a calculator application which uses parsing and evaluation on an input string to calculate an output
 
-# **Overview**
+### **Overview**
 
 <sub>
 This is an overview
 </sub>
   
-# **Languages and Tools**
+### **Languages and Tools**
 
 <sub>
 This is Languages and Tools
