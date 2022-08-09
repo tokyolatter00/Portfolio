@@ -7,13 +7,13 @@ This is a portfolio to showcase projects and programs I have created.
 
 This project is a calculator application which uses parsing and evaluation on an input string to calculate an output
 
-***Overview***
+**Overview**
 
 This is an overview
 
-***Languages and Tools***
+**Languages and Tools**
 
-This is Languages and Tools
+<sub>This is Languages and Tools</sub>
 
 
 
