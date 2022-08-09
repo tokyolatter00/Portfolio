@@ -15,7 +15,7 @@ This calculator can accept a range of complicated mathematical expressions repre
 
 This is a single-player tic-tac-toe console game which allows the user to play against their computer. The program is able to detect when a player winners and end the game when that happens
 
-# [C - Net Tic Tac Toe](https://github.com/tokyolatter00/Net-Tic-Tac-Toe)
+## [C - Net Tic Tac Toe](https://github.com/tokyolatter00/Net-Tic-Tac-Toe)
 
 ### **Overview**
 
