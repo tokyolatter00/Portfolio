@@ -5,7 +5,6 @@ This is a portfolio to showcase projects and programs I have created.
 
 ## [C - Advanced Calculator](https://github.com/tokyolatter00/Calculator)
 
-
 ### **Overview**
 
 This calculator can accept a range of complicated mathematical expressions represented in a string. This calculator handles things like error handling, parenthesis, floating point numbers, negative numbers, etc. Input strings are analysed, parsed and evaluated to calculate the end result. 
@@ -13,6 +12,19 @@ This calculator can accept a range of complicated mathematical expressions repre
 ### **Languages and Tools**
 
 - C Programming Language
+- Microsoft Visual Studio
+
+## [C# - Inventory Manager](https://github.com/tokyolatter00/Inventory-Manager)
+
+### **Overview**
+
+This is an inventory manager application created in C#. It is an example of how an inventory manager would be created on a local database. The user is able to add and remove inventory items to the inventory list, and is also able to set the amount of that inventory item which is in stock. This program also supports error handling, and informs the user when they are doing something wrong, more can be found about this on the repository for this application. 
+
+### **Languages and Tools**
+
+- C# Programming Language / .NET
+- SQLite Database
+- Windows Forms
 - Microsoft Visual Studio
 
 ## [Python - TCP Chatroom](https://github.com/tokyolatter00/Python-Chat-Room)
@@ -40,16 +52,5 @@ This is a contact book application created in Python. It showcases how a contact
 - Tkinter User Interface
 - SQLite Database
 
-## [C# - Inventory Manager](https://github.com/tokyolatter00/Inventory-Manager)
 
-### **Overview**
-
-This is an inventory manager application created in C#. It is an example of how an inventory manager would be created on a local database. The user is able to add and remove inventory items to the inventory list, and is also able to set the amount of that inventory item which is in stock. This program also supports error handling, and informs the user when they are doing something wrong, more can be found about this on the repository for this application. 
-
-### **Languages and Tools**
-
-- C# Programming Language / .NET
-- SQLite Database
-- Windows Forms
-- Microsoft Visual Studio
 
