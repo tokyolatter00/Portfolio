@@ -3,9 +3,8 @@
 
 This is a portfolio to showcase projects and programs I have created. 
 
-## [Advanced Calculator](https://github.com/tokyolatter00/Calculator)
+## [C - Advanced Calculator](https://github.com/tokyolatter00/Calculator)
 
-This project is a calculator application which uses parsing and evaluation on an input string to calculate an output
 
 ### **Overview**
 
@@ -15,6 +14,10 @@ This calculator can accept a range of complicated mathematical expressions repre
 
 - C Programming Language
 - Microsoft Visual Studio
+
+## [Python - TCP Chatroom] (https://github.com/tokyolatter00/Python-Chat-Room)
+
+### **Overview**
 
 
 
