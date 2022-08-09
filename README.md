@@ -8,7 +8,7 @@ This is a portfolio to showcase projects and programs I have created.
 
 ### **Overview**
 
-This calculator can accept a range of complicated mathematical expressions represented in a string. This calculator handles things like error handling, parenthesis, floating point numbers, negative numbers, etc. 
+This calculator can accept a range of complicated mathematical expressions represented in a string. This calculator handles things like error handling, parenthesis, floating point numbers, negative numbers, etc. Input strings are analysed, parsed and evaluated to calculate the end result. 
   
 ### **Languages and Tools**
 
