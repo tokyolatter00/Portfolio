@@ -3,7 +3,7 @@
 
 This is a portfolio to showcase projects and programs I have created. 
 
-# Advanced Calculator
+## Advanced Calculator
 
 This project is a calculator application which uses parsing and evaluation on an input string to calculate an output
 
