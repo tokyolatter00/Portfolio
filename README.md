@@ -2,10 +2,6 @@
 # Programming Project Portfolio
 
 This is a portfolio to showcase projects and programs I have created. I tried to include a different range of projects, and only tried to include projects I thought were interesting or fun. 
-
-## [C - Advanced Calculator](https://github.com/tokyolatter00/Calculator)
-
-This calculator can accept a range of complicated mathematical expressions represented in a string. This calculator handles things like error handling, parenthesis, floating point numbers, negative numbers, etc. Input strings are analysed, parsed and evaluated to calculate the end result. 
   
 ## [C - Tic Tac Toe](https://github.com/tokyolatter00/Tic-Tac-Toe)
 
